@@ -1,6 +1,6 @@
 # woods
 
-**woods** is a possible novel written using ChatGPT and MidJourney as inspiration and writing aids.   
+**woods** is a novel being written using ChatGPT and MidJourney as inspiration and writing aids.   
 
 ![[woods.png|400]]
 
