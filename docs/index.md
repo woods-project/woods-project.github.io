@@ -109,7 +109,7 @@ She's beginning to be comfortable enough to sing backup and harmony, and before 
 - Eli - Erica's older brother
 - The crew - crusty old guys from the mountains
 
-#### Myles, one of The Crew
+#### Myles, one of The Crew, having a bad hair day
 ![[characters-myles.png|200]]
 
 ## Plot Points
