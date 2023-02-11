@@ -30,7 +30,7 @@ Another creative forcing function I'm going to embrace is mapping each of the ch
 
 | ChatGPT Monomyth Title                   | Song              | Short Description                                                                                 | Harmon    | Campbell                      |
 | ---------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------- | --------- | ----------------------------- |
-| Chapter 1: Small Town Life               |                   | Intro the characters, and hints at strange things in town                                         | 1. You    | 1. Call to Adventure          |
+| [Chapter 1: Small Town Life]([[index#^4062c0]])               |                   | Intro the characters, and hints at strange things in town                                         | 1. You    | 1. Call to Adventure          |
 | Chapter 2: The Stirrings of Adventure    |                   | First show goes awry, but discover strange obelisk outside of town.                               | 2. Need   | 2. Refusal of Call            |
 | Chapter 3: Into the Woods                |                   | Discover Jerry Chance & the pink Cadillac                                                         | 3. Go     | 3. Supernatural Aid           |
 | Chapter 4: Discovering the Bizarre       |                   | Make connection to ORNL & quantum experiments                                                     | 4. Search | 4. First Threshold            |
@@ -74,3 +74,22 @@ So far, the details for these are entirely human generated, though the images di
 ### Sam
 
 **Sam Green** ("spell it like the color, no e!" he has to say 10 times a day) is the drummer.  He has a bit of a chip on his shoulder at being the 'smallest guy in the room' at 5'6" and 133 pounds, but his incredible dexterity and ability to OWN the drums is beginning to show him that he's "like a dime in a pocket full of pennies".
+
+
+## Plot Points
+
+As of Friday, Feb 10, the below are almost entirely machine generated except where bolded in Chapter 1.
+
+### Chapter 1: Small Town Life
+
+^4062c0
+
+In **the small town of Sunbright in** Eastern Tennessee in 2032, life is predictable and routine. **Obesity is common, bad country music plays on every radio, and the only news is Fox news**.  Five teenagers at the center of the story are all high-school age and live in a community where everyone knows everyone else, **but these 5 are united by feeling like they don't fit in**.  
+
+The main characters, who are slightly geeky and don't fit in well with southern culture, are progressive and love punk music. Despite their differences, they are friends and share a bond through their love of adventure and exploration.
+
+The chapter sets the stage for the story, introducing the characters and their daily lives in the small town. It highlights their frustrations with the limitations of small town life and their longing for something more.
+
+The chapter also hints at the strange and bizarre occurrences in the woods outside of town, foreshadowing the events to come. Through the dialogue and interactions of the characters, the reader gets a sense of the personalities and motivations of the teens and the world they live in.
+
+As the chapter concludes, the teens are restless and eager for something to change, setting the stage for the events of the rest of the story.
