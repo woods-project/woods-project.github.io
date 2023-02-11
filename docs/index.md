@@ -20,7 +20,7 @@ Set in an Appalachia of the not too distant future, "woods" is a heart-pounding 
 The `ChatGPT Monomyth Titles` are what I got when I prompted:
 
 > Outline the plot of a story that takes place in eastern Tennessee in 2032, about a group of teenagers discovering apparently occult Lovecraft inspired oddities in the woods which turn out of be due to the massive concentration of quantum computation at the Oak Ridge National Laboratory, where computation thins the layer between realities like in The Laundry series. Also be inspired by The Peripheral and Stranger Things. The main characters are slightly geeky and don't fit in well with southern culture, are progressive, like punk music. There are 3 boys and 2 girls in the core group of friends, all high-school age. There is a subplot of a love triangle, but the major plot points are about the occult, quantum computing, government coverups, and teenage rebellion.
-> ...
+
 > Now for this story, give me the titles of 17 chapters, which follow Campbell's monomyth and the Harmon story circle, which posits that the protagonists move through 8 points, those being: 1) the are in a zone of comfort, 2) but they want something they don't have, 3) so they enter an unfamiliar situation, and 4) adapt to it, 5) thus getting what they wanted, but 6) pay a heavy price for it, after which they 7) return to their familiar situation, 8) having changed both themselves and the world around them.
 
 Amusingly enough, there actually are 17 phases in Campbells' monomyth!  I just picked 17 because I like prime numbers and 13 seemed too few.   I can get behind the thematic mapping for the first 9 or 10 chapters, but then it gets squirrelly until the last chapter or two. 
@@ -48,3 +48,29 @@ Another creative forcing function I'm going to embrace is mapping each of the ch
 | Chapter 16: The Consequences of Action   |                   | The county comes to grip with the changes.  Coach McMeanie dies humorously.                       |           | 16. Master of Two Worlds      |
 | Chapter 17: A New Reality                |                   |                                                                                                   |           | 17. Freedom to Live           |
 
+## Characters
+
+So far, the details for these are entirely human generated, though the images did come from [Midjourney](https://www.midjourney.com/app/users/1053441274302173235/).  Eventually I'll try to capture the process I used to create the images.
+
+### Neil 
+![[character-neil-collins.png|200]]
+
+**Neil Collins** is a 17 year old boy in his senior year of high school.  5'9", average weight but a little lean, wild naturally red hair that he wears a little long so that it looks like Dave Mustaine.  Lead guitar.
+
+### Rica
+![[character-erica-blevins.png|200]]
+
+**Erica Blevins** is a 18 year old girl who is also a senior.  5'8" and beautiful.  Most of the guys in the band have a bit of a crush on her, but she's honestly more interested in Julie, a 23 year old waitress at "The Roost", a local dive bar that's incredibly lax on carding.  Spirited and both proud and embarrassed by her freckles.  Rhythm guitar and vocals.  Long hair that she usually has dyed purple, and cuts the sides short on one side like a Belta.  Leather and piercings, quick to get 'back in their face' when kids pick on any of her friends.
+
+### Byr
+![[character-byron-reynolds.png|200]]
+
+**Byron Reynolds** insists on going by the name Byr (pronounced "Beer").  Only Erica Blevins calls him this, and the rest of the crew who have known him for years still call him Byron.  Younger than he looks and standing at a respectable 5'11" but a little heavy at over 200 pounds , but to be fair a lot of it is muscle and he is "strong as a hoss".  He has shoulder length light brown hair and the beginnings of a mighty beard.  He is fascinated by Norse mythology, wears Thor's Hammer on a braided leather band around his neck, and plays bass guitar.
+
+### Ivy
+
+**Zhang Lei Min** aka Ivy Zhang, is the daughter of Dr. Zhang, who moved to "the county" ten years ago to work at the hospital.  She goes by **Ivy** to her friends, and gets embarrassed when her parents call her Xiao Lei (roughly 'little mountain' or 'little thunder') in public.  The mean girls at school call her 'little lay'.  She's 4'11" with a jet-black bob haircut, which she colors blue during concerts.  Originally only a fan of the band who dated Sam "for like, all of a week" when they were in ninth grade, and who would listen from the ratty couch as they practiced, she's beginning to come out of her shell and use her years of piano practice on the synths, and fills in occasionally on other people's guitars.  She's beginning to be comfortable enough to sing backup and harmony, and before the end of the story she's going to fully find her voice and SHRED IT in a spirited rendition of {FIND A SONG}.
+
+### Sam
+
+**Sam Green** ("spell it like the color, no e!" he has to say 10 times a day) is the drummer.  He has a bit of a chip on his shoulder at being the 'smallest guy in the room' at 5'6" and 133 pounds, but his incredible dexterity and ability to OWN the drums is beginning to show him that he's "like a dime in a pocket full of pennies".
