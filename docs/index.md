@@ -42,7 +42,7 @@ The summary above, the chapter list, and the [[Plot Points|plot points]] were al
 
 The initial plot summary was pretty crufty - the one at the top of this page was actually the output of about 5-10 rounds of back and forth dialogue, during which  details like the obelisk, the scientist in the burning car, and the 60-year olds were introduced by the human.
 
-Then ChatGPT was prompted for chapter titles with the following prompt that [[Xanadu/woods/Story Mechanics|referenced Campbell's Monomyth and described Harmon's Story Circle]]:
+Then ChatGPT was prompted for chapter titles with the following prompt that [[Story Mechanics|referenced Campbell's Monomyth and described Harmon's Story Circle]]
 
 > Now for this story, give me the titles of 17 chapters, which follow Campbell's monomyth and the Harmon story circle, which posits that the protagonists move through 8 points, those being: 1) the are in a zone of comfort, 2) but they want something they don't have, 3) so they enter an unfamiliar situation, and 4) adapt to it, 5) thus getting what they wanted, but 6) pay a heavy price for it, after which they 7) return to their familiar situation, 8) having changed both themselves and the world around them.
 
@@ -67,14 +67,14 @@ Another creative forcing function I'm going to embrace is mapping each of the ch
 - [[Characters|Meet the Characters]] - Neil, 'Rica, and the gang...
 - [[Plot Points]] - Machine generated with a dash of spice
 - [[Scene Notes]] - Using Kanban view to play around with the scenes (on the web it looks kinda boring, but see notes below for an idea of what it looks like in my "IDE for thinking and writing")
-- [[Xanadu/woods/Story Mechanics|Story Mechanics]] - monomythic story circles and word counts and pacing, oh my!
+- [[Story Mechanics]]- monomythic story circles and word counts and pacing, oh my!
 
 
 ### Notes on this site
 
 This novel and this site are being composed in Obsidian.md, a recent 'plain text connected thinking' app I started seriously using on New Year's Eve.
 
-In addition to my 'private memex' of reading notes, daily logs, drafts for blog posts, to-do lists, concept maps, and project boards, I have a folder for this project which is symlinked to a stand-alone git repo which uses mkdocs to compile the website you're reading.  
+In addition to my 'private memex' of reading notes, daily logs, drafts for blog posts, to-do lists, concept maps, and project boards, I have a folder for this project which is symlinked to a stand-alone git repo which uses mkdocs to compile the website you're reading.  It's not 'push-button' publishing per-se, but for a cli-geek `mkdocs gh-deploy` is practically a single button push.
 
 The use of Cory Doctorow as a reviewer on the fake cover is aspirational - he's never heard of Michael, though I'd bet anything he's heard of ChatGPT and has opinions.
 
