@@ -36,7 +36,7 @@ Set in an Appalachia of the not too distant future, "woods" is a heart-pounding 
 | Chapter 17: A New Reality                |                   |                                                                                                   |           | 17. Freedom to Live           |
 
 
-The summary above, the chapter list, and the [[Plot Points|plot points]] were all generated during a single ~45 minute session w/ ChatGPT, starting with the following promp:
+The [[#Summary|summary]]summary above, the [[#Chapters|chapter list]], and the [[Plot Points|plot points]] were all generated during a single ~45 minute session w/ ChatGPT, starting with the following prompt:
 
 > Outline the plot of a story that takes place in eastern Tennessee in 2032, about a group of teenagers discovering apparently occult Lovecraft inspired oddities in the woods which turn out of be due to the massive concentration of quantum computation at the Oak Ridge National Laboratory, where computation thins the layer between realities like in The Laundry series. Also be inspired by The Peripheral and Stranger Things. The main characters are slightly geeky and don't fit in well with southern culture, are progressive, like punk music. There are 3 boys and 2 girls in the core group of friends, all high-school age. There is a subplot of a love triangle, but the major plot points are about the occult, quantum computing, government coverups, and teenage rebellion.
 
@@ -55,15 +55,7 @@ I can get behind the thematic mapping for the first 9 or 10 chapters, but then i
 From there, I prompted chapter by chapter for the [[Plot Points|plot points]], and then brainstormed the [[Characters|characters]], using Midjourney and some creative prompting for the character sketches.  I also used Midjourney to `/imagine` what the cover of the book should look like, which I cleaned up a little to add human-readable words (most SOTA image generation at present doesn't have the ability to generate readable words quite yet).
 
 
-
-As of February 21, I've disected a recent read that was fun and accessible, Walkaways by Cory Doctorow, 
-
-Another creative forcing function I'm going to embrace is mapping each of the chapters to a song.  Given the gang's proclivity, Sex Pistols, Ramones, etc. should figure prominently, but for some reason Mr Blue Sky popped to mind when I thought about the county normies being oblivious to the changes just wrought on the world.  This may have something to do with the bittersweet optimism of being just on the edge of the important things happening felt by [Elton Pope](https://tardis.fandom.com/wiki/Elton_Pope) as he listened to the song.
-
-
-
-
-#### Read More
+### Read More
 - [[Characters|Meet the Characters]] - Neil, 'Rica, and the gang...
 - [[Plot Points]] - Machine generated with a dash of spice
 - [[Scene Notes]] - Using Kanban view to play around with the scenes (on the web it looks kinda boring, but see notes below for an idea of what it looks like in my "IDE for thinking and writing")

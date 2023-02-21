@@ -5,7 +5,7 @@ While ChatGPT is GREAT for overcoming writers block and getting SOMETHING down, 
 
 ### The Monomyth is not for resale
 
-Way back in high-school, we'd get overstocked paper-back books delivered to our library with an inch cut off the front cover and "NOT FOR RESALE" stamped on the front cover - any that the library didn't want to put into circulation were piled on tables and a few times a year students could come in and take as many as they wanted.  Amongst the 300-some-odd books I carried home over the course of 2 years were the 4 volumes of Joseph Campbell's *The Masks of God*.  I've also had the good fortune to have met a small group of lifelong friends with similar interests and ways and thinking while in high school, so Campbell's name and the idea of the monomyth have been part of my world for almost as long as I can remember.
+Way back in high-school, we'd get overstocked paper-back books delivered to our library with an inch cut off the front cover and "NOT FOR RESALE" stamped on the first page - any that the library didn't want to put into circulation were piled on tables and a few times a year students could come in and take as many as they wanted.  Amongst the 300-some-odd books I carried home over the course of 2 years were the 4 volumes of Joseph Campbell's *The Masks of God*.  I've also had the good fortune to have met a small group of lifelong friends with similar interests and ways and thinking while in high school (who may or may not be loose inspiration for 'the crew' of 50-60 year olds), so Campbell's name and the idea of the monomyth have been part of my world for almost as long as I can remember.
 
 ![[rsap-cambell-monomyth.png]]
 
@@ -33,3 +33,6 @@ After a little unstructured and undocumented web-searching, I seem to recall som
 
 
 
+### Rock and Roll!
+
+Another creative forcing function I'm going to embrace is mapping each of the chapters to a song.  Given the gang's proclivity, Sex Pistols, Ramones, etc. should figure prominently, but for some reason Mr Blue Sky popped to mind when I thought about the county normies being oblivious to the changes just wrought on the world.  This may have something to do with the bittersweet optimism of being just on the edge of the important things happening felt by [Elton Pope](https://tardis.fandom.com/wiki/Elton_Pope) as he listened to the song.
