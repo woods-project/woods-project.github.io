@@ -1,6 +1,6 @@
-**Authors Note:** This is an AI generated short story based upon a playthrough of the excellent [Star Wars Rebellion](https://boardgamegeek.com/boardgame/187645/star-wars-rebellion) boardgame between Michael and David on Saturday and Sunday, Dec 14 & 15, 2024.  
+**Authors Note:** This is an AI drafted and human edited short story based upon a playthrough of the excellent [Star Wars Rebellion](https://boardgamegeek.com/boardgame/187645/star-wars-rebellion) boardgame between Michael and David on Saturday and Sunday, Dec 14 & 15, 2024.  
 
-For the raw bullet points and descriptions by Michael, please refer to the [writer's postscript](#writers-postscript) at the end of the story.
+For the prompt containing the raw descriptions by Michael, please refer to the [writer's postscript](#writers-postscript) at the end of the story.
 
 ## A Tale of Rebellion
 
