@@ -36,7 +36,7 @@ Set in an Appalachia of the not too distant future, "woods" is a heart-pounding 
 | Chapter 17: A New Reality                |                   |                                                                                                   |           | 17. Freedom to Live           |
 
 
-The [[#Summary|summary]]summary above, the [[#Chapters|chapter list]], and the [[Plot Points|plot points]] were all generated during a single ~45 minute session w/ ChatGPT, starting with the following prompt:
+The summary above, the [[#Chapters|chapter list]], and the [[Plot Points|plot points]] were all generated during a single ~45 minute session w/ ChatGPT, starting with the following prompt:
 
 > Outline the plot of a story that takes place in eastern Tennessee in 2032, about a group of teenagers discovering apparently occult Lovecraft inspired oddities in the woods which turn out of be due to the massive concentration of quantum computation at the Oak Ridge National Laboratory, where computation thins the layer between realities like in The Laundry series. Also be inspired by The Peripheral and Stranger Things. The main characters are slightly geeky and don't fit in well with southern culture, are progressive, like punk music. There are 3 boys and 2 girls in the core group of friends, all high-school age. There is a subplot of a love triangle, but the major plot points are about the occult, quantum computing, government coverups, and teenage rebellion.
 

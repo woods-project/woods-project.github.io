@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"88420278b8681e3a","x":-720,"y":-300,"width":541,"height":654,"type":"file","file":"Xanadu/woods/Scene Notes.md","subpath":"#Ch 1"},
+		{"id":"7df213266999535d","x":460,"y":-353,"width":400,"height":829,"type":"file","file":"Xanadu/woods/Characters.md","subpath":"#Neil"},
+		{"id":"df513a8c0004fee1","x":-40,"y":300,"width":400,"height":400,"type":"file","file":"Xanadu/woods/Characters.md","subpath":"#Rica"}
+	],
+	"edges":[
+		{"id":"a012b03eb31a5cad","fromNode":"88420278b8681e3a","fromSide":"right","toNode":"7df213266999535d","toSide":"left"},
+		{"id":"165cbf73542b6b3b","fromNode":"88420278b8681e3a","fromSide":"right","toNode":"df513a8c0004fee1","toSide":"top"}
+	]
+}
